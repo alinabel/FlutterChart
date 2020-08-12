@@ -1,0 +1,29 @@
+name: charts
+description: This Is my first flutter real applecation i will done it 
+
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.3
+  intro_views_flutter: ^2.8.1
+  shared_preferences: ^0.5.8
+  provider: ^4.3.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
